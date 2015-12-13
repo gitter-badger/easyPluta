@@ -11,5 +11,5 @@ public class HealthPotion extends Item {
 		this.effects = new Effect[1];
 		this.effects[0] = new Heal(amount);
 	}
-	//hi pluta
+
 }
